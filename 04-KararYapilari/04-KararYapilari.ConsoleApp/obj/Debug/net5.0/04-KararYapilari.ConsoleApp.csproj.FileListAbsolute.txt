@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\bin\Debug\net5.0\04-KararYapilari.ConsoleApp.exe
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\bin\Debug\net5.0\04-KararYapilari.ConsoleApp.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\bin\Debug\net5.0\04-KararYapilari.ConsoleApp.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\bin\Debug\net5.0\04-KararYapilari.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\bin\Debug\net5.0\04-KararYapilari.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\bin\Debug\net5.0\ref\04-KararYapilari.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\bin\Debug\net5.0\04-KararYapilari.ConsoleApp.pdb
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\04-KararYapilari.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\04-KararYapilari.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\04-KararYapilari.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\04-KararYapilari.ConsoleApp.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\04-KararYapilari.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\04-KararYapilari.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\ref\04-KararYapilari.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\04-KararYapilari.ConsoleApp.pdb
+C:\Users\Kübra BOŞNAK\source\repos\04-KararYapilari\04-KararYapilari.ConsoleApp\obj\Debug\net5.0\04-KararYapilari.ConsoleApp.genruntimeconfig.cache
