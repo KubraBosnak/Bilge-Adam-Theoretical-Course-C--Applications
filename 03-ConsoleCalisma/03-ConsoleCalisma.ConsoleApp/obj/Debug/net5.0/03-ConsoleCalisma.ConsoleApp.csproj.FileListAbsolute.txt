@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\bin\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.exe
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\bin\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\bin\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\bin\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\bin\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\bin\Debug\net5.0\ref\03-ConsoleCalisma.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\bin\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.pdb
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\ref\03-ConsoleCalisma.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.pdb
+C:\Users\Kübra BOŞNAK\source\repos\03-ConsoleCalisma\03-ConsoleCalisma.ConsoleApp\obj\Debug\net5.0\03-ConsoleCalisma.ConsoleApp.genruntimeconfig.cache
