@@ -1,0 +1,16 @@
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\bin\Debug\net5.0\32-GenericTypes.exe
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\bin\Debug\net5.0\32-GenericTypes.deps.json
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\bin\Debug\net5.0\32-GenericTypes.runtimeconfig.json
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\bin\Debug\net5.0\32-GenericTypes.runtimeconfig.dev.json
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\bin\Debug\net5.0\32-GenericTypes.dll
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\bin\Debug\net5.0\ref\32-GenericTypes.dll
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\bin\Debug\net5.0\32-GenericTypes.pdb
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\32-GenericTypes.csproj.AssemblyReference.cache
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\32-GenericTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\32-GenericTypes.AssemblyInfoInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\32-GenericTypes.AssemblyInfo.cs
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\32-GenericTypes.csproj.CoreCompileInputs.cache
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\32-GenericTypes.dll
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\ref\32-GenericTypes.dll
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\32-GenericTypes.pdb
+C:\Users\W10\OneDrive\Masaüstü\KB\BA\1. C#\32-GenericTypes\32-GenericTypes\obj\Debug\net5.0\32-GenericTypes.genruntimeconfig.cache
