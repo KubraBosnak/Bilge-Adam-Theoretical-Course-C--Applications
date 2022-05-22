@@ -1,0 +1,8 @@
+﻿'10-StringHazırMetodlar.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.8\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'10-StringHazırMetodlar.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\bin\Debug\net5.0\10-StringHazırMetodlar.dll'. Symbols loaded.
+'10-StringHazırMetodlar.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.8\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'10-StringHazırMetodlar.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.8\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'10-StringHazırMetodlar.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.8\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'10-StringHazırMetodlar.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.8\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Exception thrown: 'System.FormatException' in System.Private.CoreLib.dll
+The program '[10736] 10-StringHazırMetodlar.exe' has exited with code 0 (0x0).

@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\bin\Debug\net5.0\10-StringHazırMetodlar.exe
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\bin\Debug\net5.0\10-StringHazırMetodlar.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\bin\Debug\net5.0\10-StringHazırMetodlar.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\bin\Debug\net5.0\10-StringHazırMetodlar.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\bin\Debug\net5.0\10-StringHazırMetodlar.dll
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\bin\Debug\net5.0\ref\10-StringHazırMetodlar.dll
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\bin\Debug\net5.0\10-StringHazırMetodlar.pdb
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\10-StringHazırMetodlar.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\10-StringHazırMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\10-StringHazırMetodlar.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\10-StringHazırMetodlar.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\10-StringHazırMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\10-StringHazırMetodlar.dll
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\ref\10-StringHazırMetodlar.dll
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\10-StringHazırMetodlar.pdb
+C:\Users\Kübra BOŞNAK\source\repos\10-StringHazırMetodlar\10-StringHazırMetodlar\obj\Debug\net5.0\10-StringHazırMetodlar.genruntimeconfig.cache

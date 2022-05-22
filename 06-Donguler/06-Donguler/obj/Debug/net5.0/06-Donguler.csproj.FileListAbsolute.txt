@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\bin\Debug\net5.0\06-Donguler.exe
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\bin\Debug\net5.0\06-Donguler.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\bin\Debug\net5.0\06-Donguler.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\bin\Debug\net5.0\06-Donguler.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\bin\Debug\net5.0\06-Donguler.dll
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\bin\Debug\net5.0\ref\06-Donguler.dll
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\bin\Debug\net5.0\06-Donguler.pdb
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\06-Donguler.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\06-Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\06-Donguler.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\06-Donguler.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\06-Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\06-Donguler.dll
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\ref\06-Donguler.dll
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\06-Donguler.pdb
+C:\Users\Kübra BOŞNAK\source\repos\06-Donguler\06-Donguler\obj\Debug\net5.0\06-Donguler.genruntimeconfig.cache

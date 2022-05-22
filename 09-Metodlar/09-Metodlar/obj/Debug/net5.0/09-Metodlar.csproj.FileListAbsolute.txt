@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\bin\Debug\net5.0\09-Metodlar.exe
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\bin\Debug\net5.0\09-Metodlar.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\bin\Debug\net5.0\09-Metodlar.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\bin\Debug\net5.0\09-Metodlar.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\bin\Debug\net5.0\09-Metodlar.dll
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\bin\Debug\net5.0\ref\09-Metodlar.dll
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\bin\Debug\net5.0\09-Metodlar.pdb
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\09-Metodlar.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\09-Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\09-Metodlar.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\09-Metodlar.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\09-Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\09-Metodlar.dll
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\ref\09-Metodlar.dll
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\09-Metodlar.pdb
+C:\Users\Kübra BOŞNAK\source\repos\09-Metodlar\09-Metodlar\obj\Debug\net5.0\09-Metodlar.genruntimeconfig.cache
