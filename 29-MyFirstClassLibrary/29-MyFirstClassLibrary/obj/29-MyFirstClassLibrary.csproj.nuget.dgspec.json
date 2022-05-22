@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\W10\\OneDrive\\Masaüstü\\KB\\BA\\1. C#\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\W10\\OneDrive\\Masaüstü\\KB\\BA\\1. C#\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\W10\\OneDrive\\Masaüstü\\KB\\BA\\1. C#\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary.csproj",
+        "projectName": "29-MyFirstClassLibrary",
+        "projectPath": "C:\\Users\\W10\\OneDrive\\Masaüstü\\KB\\BA\\1. C#\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W10\\OneDrive\\Masaüstü\\KB\\BA\\1. C#\\29-MyFirstClassLibrary\\29-MyFirstClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ExcelMapper": {
+              "target": "Package",
+              "version": "[5.2.404, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

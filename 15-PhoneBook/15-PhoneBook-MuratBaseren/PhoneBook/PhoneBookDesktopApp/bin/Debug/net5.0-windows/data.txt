@@ -1,0 +1,5 @@
+ali|veli|(111) 111-1111|-1|True|False
+ayşe|emel|(222) 222-2222|-1|False|False
+buğra|açan|(333) 333-3333|-1|False|False
+ali|kkkk|(555) 555-5555|-1|False|False
+ali|kkkk|(555) 555-5555|-1|False|False

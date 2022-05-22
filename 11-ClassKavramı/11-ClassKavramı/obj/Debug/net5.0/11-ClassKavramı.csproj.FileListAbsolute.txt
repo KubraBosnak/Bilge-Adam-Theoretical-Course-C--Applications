@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\bin\Debug\net5.0\11-ClassKavramı.exe
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\bin\Debug\net5.0\11-ClassKavramı.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\bin\Debug\net5.0\11-ClassKavramı.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\bin\Debug\net5.0\11-ClassKavramı.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\bin\Debug\net5.0\11-ClassKavramı.dll
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\bin\Debug\net5.0\ref\11-ClassKavramı.dll
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\bin\Debug\net5.0\11-ClassKavramı.pdb
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\11-ClassKavramı.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\11-ClassKavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\11-ClassKavramı.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\11-ClassKavramı.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\11-ClassKavramı.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\11-ClassKavramı.dll
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\ref\11-ClassKavramı.dll
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\11-ClassKavramı.pdb
+C:\Users\Kübra BOŞNAK\source\repos\11-ClassKavramı\11-ClassKavramı\obj\Debug\net5.0\11-ClassKavramı.genruntimeconfig.cache

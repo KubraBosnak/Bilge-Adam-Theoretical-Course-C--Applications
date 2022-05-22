@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\bin\Debug\net5.0\16-SayisalLotoTahmin.exe
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\bin\Debug\net5.0\16-SayisalLotoTahmin.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\bin\Debug\net5.0\16-SayisalLotoTahmin.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\bin\Debug\net5.0\16-SayisalLotoTahmin.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\bin\Debug\net5.0\16-SayisalLotoTahmin.dll
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\bin\Debug\net5.0\ref\16-SayisalLotoTahmin.dll
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\bin\Debug\net5.0\16-SayisalLotoTahmin.pdb
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\16-SayisalLotoTahmin.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\16-SayisalLotoTahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\16-SayisalLotoTahmin.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\16-SayisalLotoTahmin.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\16-SayisalLotoTahmin.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\16-SayisalLotoTahmin.dll
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\ref\16-SayisalLotoTahmin.dll
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\16-SayisalLotoTahmin.pdb
+C:\Users\Kübra BOŞNAK\source\repos\16-SayisalLotoTahmin\16-SayisalLotoTahmin\obj\Debug\net5.0\16-SayisalLotoTahmin.genruntimeconfig.cache

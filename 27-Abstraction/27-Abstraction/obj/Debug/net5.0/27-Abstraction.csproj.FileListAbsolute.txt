@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\bin\Debug\net5.0\27-Abstraction.exe
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\bin\Debug\net5.0\27-Abstraction.deps.json
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\bin\Debug\net5.0\27-Abstraction.runtimeconfig.json
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\bin\Debug\net5.0\27-Abstraction.runtimeconfig.dev.json
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\bin\Debug\net5.0\27-Abstraction.dll
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\bin\Debug\net5.0\27-Abstraction.pdb
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\27-Abstraction.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\27-Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\27-Abstraction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\27-Abstraction.AssemblyInfo.cs
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\27-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\27-Abstraction.dll
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\refint\27-Abstraction.dll
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\27-Abstraction.pdb
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\27-Abstraction.genruntimeconfig.cache
+C:\Users\user\Desktop\KB\BA\1. C#\27-Abstraction\27-Abstraction\obj\Debug\net5.0\ref\27-Abstraction.dll

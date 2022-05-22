@@ -1,0 +1,16 @@
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\bin\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.exe
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\bin\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.deps.json
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\bin\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.runtimeconfig.json
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\bin\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.runtimeconfig.dev.json
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\bin\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.dll
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\bin\Debug\net5.0\ref\19.EnKucukveyaEnBuyukSayiBelirleme.dll
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\bin\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.pdb
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.csproj.AssemblyReference.cache
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.AssemblyInfoInputs.cache
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.AssemblyInfo.cs
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.csproj.CoreCompileInputs.cache
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.dll
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\ref\19.EnKucukveyaEnBuyukSayiBelirleme.dll
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.pdb
+C:\Users\ASUS R561V\source\repos\19.EnKucukveyaEnBuyukSayiBelirleme\19.EnKucukveyaEnBuyukSayiBelirleme\obj\Debug\net5.0\19.EnKucukveyaEnBuyukSayiBelirleme.genruntimeconfig.cache

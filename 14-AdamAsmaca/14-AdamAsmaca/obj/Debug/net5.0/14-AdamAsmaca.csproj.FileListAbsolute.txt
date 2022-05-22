@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\bin\Debug\net5.0\14-AdamAsmaca.exe
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\bin\Debug\net5.0\14-AdamAsmaca.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\bin\Debug\net5.0\14-AdamAsmaca.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\bin\Debug\net5.0\14-AdamAsmaca.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\bin\Debug\net5.0\14-AdamAsmaca.dll
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\bin\Debug\net5.0\ref\14-AdamAsmaca.dll
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\bin\Debug\net5.0\14-AdamAsmaca.pdb
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\14-AdamAsmaca.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\14-AdamAsmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\14-AdamAsmaca.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\14-AdamAsmaca.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\14-AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\14-AdamAsmaca.dll
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\ref\14-AdamAsmaca.dll
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\14-AdamAsmaca.pdb
+C:\Users\Kübra BOŞNAK\source\repos\14-AdamAsmaca\14-AdamAsmaca\obj\Debug\net5.0\14-AdamAsmaca.genruntimeconfig.cache

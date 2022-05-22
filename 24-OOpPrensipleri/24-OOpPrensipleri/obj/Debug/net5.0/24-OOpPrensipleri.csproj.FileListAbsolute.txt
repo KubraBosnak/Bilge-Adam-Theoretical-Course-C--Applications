@@ -1,0 +1,16 @@
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\bin\Debug\net5.0\24-OOpPrensipleri.exe
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\bin\Debug\net5.0\24-OOpPrensipleri.deps.json
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\bin\Debug\net5.0\24-OOpPrensipleri.runtimeconfig.json
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\bin\Debug\net5.0\24-OOpPrensipleri.runtimeconfig.dev.json
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\bin\Debug\net5.0\24-OOpPrensipleri.dll
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\bin\Debug\net5.0\ref\24-OOpPrensipleri.dll
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\bin\Debug\net5.0\24-OOpPrensipleri.pdb
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\24-OOpPrensipleri.csproj.AssemblyReference.cache
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\24-OOpPrensipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\24-OOpPrensipleri.AssemblyInfoInputs.cache
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\24-OOpPrensipleri.AssemblyInfo.cs
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\24-OOpPrensipleri.csproj.CoreCompileInputs.cache
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\24-OOpPrensipleri.dll
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\ref\24-OOpPrensipleri.dll
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\24-OOpPrensipleri.pdb
+C:\Users\ASUS R561V\source\repos\24-OOpPrensipleri\24-OOpPrensipleri\obj\Debug\net5.0\24-OOpPrensipleri.genruntimeconfig.cache

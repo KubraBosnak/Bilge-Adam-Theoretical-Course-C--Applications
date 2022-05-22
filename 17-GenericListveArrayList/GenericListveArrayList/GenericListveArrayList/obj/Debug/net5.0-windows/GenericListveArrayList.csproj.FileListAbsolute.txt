@@ -1,0 +1,36 @@
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.exe
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.deps.json
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.runtimeconfig.json
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.runtimeconfig.dev.json
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.dll
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\ref\GenericListveArrayList.dll
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.pdb
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.csproj.AssemblyReference.cache
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.Form1.resources
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.csproj.GenerateResource.cache
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.AssemblyInfoInputs.cache
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.AssemblyInfo.cs
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.dll
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\ref\GenericListveArrayList.dll
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.pdb
+C:\Users\ASUS R561V\source\repos\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.genruntimeconfig.cache
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.exe
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.deps.json
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.runtimeconfig.json
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.runtimeconfig.dev.json
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.dll
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\ref\GenericListveArrayList.dll
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\bin\Debug\net5.0-windows\GenericListveArrayList.pdb
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.csproj.AssemblyReference.cache
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.Form1.resources
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.csproj.GenerateResource.cache
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.AssemblyInfoInputs.cache
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.AssemblyInfo.cs
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.dll
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\ref\GenericListveArrayList.dll
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.pdb
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\17-GenericListveArrayList\GenericListveArrayList\GenericListveArrayList\obj\Debug\net5.0-windows\GenericListveArrayList.genruntimeconfig.cache

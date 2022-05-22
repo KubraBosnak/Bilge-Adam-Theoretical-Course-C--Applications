@@ -1,0 +1,16 @@
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\bin\Debug\net5.0\25-AlanHesaplayici.exe
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\bin\Debug\net5.0\25-AlanHesaplayici.deps.json
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\bin\Debug\net5.0\25-AlanHesaplayici.runtimeconfig.json
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\bin\Debug\net5.0\25-AlanHesaplayici.runtimeconfig.dev.json
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\bin\Debug\net5.0\25-AlanHesaplayici.dll
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\bin\Debug\net5.0\ref\25-AlanHesaplayici.dll
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\bin\Debug\net5.0\25-AlanHesaplayici.pdb
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\25-AlanHesaplayici.csproj.AssemblyReference.cache
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\25-AlanHesaplayici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\25-AlanHesaplayici.AssemblyInfoInputs.cache
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\25-AlanHesaplayici.AssemblyInfo.cs
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\25-AlanHesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\25-AlanHesaplayici.dll
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\ref\25-AlanHesaplayici.dll
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\25-AlanHesaplayici.pdb
+C:\Users\ASUS R561V\Desktop\KB\BA\1. C#\25-AlanHesaplayici\25-AlanHesaplayici\obj\Debug\net5.0\25-AlanHesaplayici.genruntimeconfig.cache
