@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kübra BOŞNAK\\source\\repos\\02-VisualStudioTanıtım\\02-VisualStudioTanıtım.ConsoleApp\\02-VisualStudioTanıtım.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kübra BOŞNAK\\source\\repos\\02-VisualStudioTanıtım\\02-VisualStudioTanıtım.ConsoleApp\\02-VisualStudioTanıtım.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kübra BOŞNAK\\source\\repos\\02-VisualStudioTanıtım\\02-VisualStudioTanıtım.ConsoleApp\\02-VisualStudioTanıtım.ConsoleApp.csproj",
+        "projectName": "02-VisualStudioTanıtım.ConsoleApp",
+        "projectPath": "C:\\Users\\Kübra BOŞNAK\\source\\repos\\02-VisualStudioTanıtım\\02-VisualStudioTanıtım.ConsoleApp\\02-VisualStudioTanıtım.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Kübra BOŞNAK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kübra BOŞNAK\\source\\repos\\02-VisualStudioTanıtım\\02-VisualStudioTanıtım.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kübra BOŞNAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
