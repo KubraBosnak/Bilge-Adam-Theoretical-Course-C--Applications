@@ -1,0 +1,16 @@
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\bin\Debug\net5.0\05-HataYonetimi.ConsoleApp.exe
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\bin\Debug\net5.0\05-HataYonetimi.ConsoleApp.deps.json
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\bin\Debug\net5.0\05-HataYonetimi.ConsoleApp.runtimeconfig.json
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\bin\Debug\net5.0\05-HataYonetimi.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\bin\Debug\net5.0\05-HataYonetimi.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\bin\Debug\net5.0\ref\05-HataYonetimi.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\bin\Debug\net5.0\05-HataYonetimi.ConsoleApp.pdb
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\05-HataYonetimi.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\05-HataYonetimi.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\05-HataYonetimi.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\05-HataYonetimi.ConsoleApp.AssemblyInfo.cs
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\05-HataYonetimi.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\05-HataYonetimi.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\ref\05-HataYonetimi.ConsoleApp.dll
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\05-HataYonetimi.ConsoleApp.pdb
+C:\Users\Kübra BOŞNAK\source\repos\05-HataYonetimi.ConsoleApp\05-HataYonetimi.ConsoleApp\obj\Debug\net5.0\05-HataYonetimi.ConsoleApp.genruntimeconfig.cache
